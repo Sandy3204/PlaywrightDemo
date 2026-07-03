@@ -21,3 +21,9 @@ let num7 = 20;
 let num8 = 4;
 let quotient = num7 / num8;
 console.log("The quotient of", num7, "and", num8, "is:", quotient); // Output: The quotient of 20 and 4 is: 5
+
+//5. write a program to find the remainder of two numbers using let variable
+let num9 = 17;
+let num10 = 5;
+let remainder = num9 % num10;
+console.log("The remainder of", num9, "divided by", num10, "is:", remainder); // Output: The remainder of 17 divided by 5 is: 2
